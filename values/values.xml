@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="music_genres">
+        <item>Country Music</item>
+        <item>Pop Music</item>
+        <item>Jazz Music</item>
+        <item>Hiphop Music</item>
+        <item>RnB Music</item>
+        <item>Rock Music</item>
+        <item>Blues Music</item>
+        <item>World Traditional Music</item>
+
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#3F51B5</color>
+    <color name="bluecyan">#2196F3</color>
+    <color name="bluegreen">#00BCD4</color>
+    <color name="green">#4CAF50</color>
+    <color name="lavender">#8692f7</color>
+    <color name="red">#F44336</color>
+    <color name="teal">#A3B1B1</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whitetraspa">#80FFFFFF</color>
+    <color name="yellow">#FFEB3B</color>
+    <item name="nav_add_remove_song" type="id"/>
+    <item name="nav_create_artist" type="id"/>
+    <item name="nav_create_music_genre" type="id"/>
+    <item name="nav_create_music_share" type="id"/>
+    <item name="nav_create_update_song" type="id"/>
+    <item name="nav_edit_admin_profile" type="id"/>
+    <item name="nav_feedback" type="id"/>
+    <item name="nav_logout_admin" type="id"/>
+    <item name="nav_set_download" type="id"/>
+    <item name="nav_set_favorite" type="id"/>
+    <item name="nav_set_new_music" type="id"/>
+    <item name="nav_user_engagement" type="id"/>
+    <string name="app_name">Music_For_All</string>
+    <string name="close_nav">Close Music_For_All</string>
+    <string name="email_text">Email: %s</string>
+    <string name="fullname_text">Hi: %s</string>
+    <string name="gcm_defaultSenderId" translatable="false">674835815973</string>
+    <string name="google_api_key" translatable="false">AIzaSyBkWR2ydJqvMxRKVWsu5omXkxOtkOy6uWk</string>
+    <string name="google_app_id" translatable="false">1:674835815973:android:967bf3b953d0e175c669cc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBkWR2ydJqvMxRKVWsu5omXkxOtkOy6uWk</string>
+    <string name="google_storage_bucket" translatable="false">music-for-all-35589.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav">Open Music_For_All </string>
+    <string name="project_id" translatable="false">music-for-all-35589</string>
+    <style name="Base.Theme.Music_For_All" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/bluecyan</item>
+        <item name="colorPrimaryVariant">@color/bluecyan</item>
+
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+
+    </style>
+    <style name="Theme.Music_For_All" parent="Base.Theme.Music_For_All"/>
+</resources>
