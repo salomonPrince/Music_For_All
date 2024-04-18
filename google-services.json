@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674835815973",
+    "project_id": "music-for-all-35589",
+    "storage_bucket": "music-for-all-35589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674835815973:android:967bf3b953d0e175c669cc",
+        "android_client_info": {
+          "package_name": "com.example.music_for_all"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWR2ydJqvMxRKVWsu5omXkxOtkOy6uWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "category_name": "Music Videos",
+      "videos": [
+        {
+          "title": "Essence (Official Video) ft. Tems ",
+          "description": "Description of Music Video 1",
+          "subtitle": "Wiz Kid",
+          "thumb": "wizboy.png",
+          "sources": [
+            "https://www.youtube.com/watch?v=jipQpjUA_o8"
+          ]
+        },
+        {
+          "title": "Music Video 2",
+          "description": "Description of Music Video 2",
+          "subtitle": "Artist Name",
+          "thumb": "https://example.com/thumb2.jpg",
+          "sources": [
+            "https://example.com/video2.mp4"
+          ]
+        },
+        {
+          "title": "Music Video 3",
+          "description": "Description of Music Video 3",
+          "subtitle": "Artist Name",
+          "thumb": "https://example.com/thumb3.jpg",
+          "sources": [
+            "https://example.com/video3.mp4"
+          ]
+        }
+      ]
+    }
+  ]
+}
